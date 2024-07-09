@@ -11,12 +11,7 @@ Built With
 C++11
 
 Authors
-Tanishq Maheshwari
-
-
-Acknowledgments
-Thanks to Prof. Indranil Saha for providing inspiration for this project.
-Thanks to all the wonderful teaching assistants for reviewing this project.
+Pranshu Jain
 
 Initial Database:
 
