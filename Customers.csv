@@ -1,0 +1,7 @@
+Customer-ID,Name,Password,Number of cars currently rented,Total number of cars rented,Total number of cars returned with damage,Total number of days delayed,Total dues(in Rs.)
+C673,Mukesh,29021996,0,0,0,0,0
+C678,Keshav,9456,0,0,0,0,0
+C786,Surya,chandra,0,0,0,0,0
+C333,Honey,honeybee,0,0,0,0,0
+C345,Bharat,lal,1,1,0,0,6250
+C356,Ashish,ashu,0,0,0,0,0

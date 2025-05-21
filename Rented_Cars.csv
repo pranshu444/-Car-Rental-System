@@ -1,0 +1,4 @@
+Car-ID,Model,Rent (in Rs. per day),Type of renter,User-ID of renter,Due Date,Due Month,Due Year
+T1111,Punch,1250,Employee,E256,7,3,2024
+T1112,Punch,1250,Customer,C345,8,3,2024
+B1298,Baleno,1100,Employee,E831,13,3,2024

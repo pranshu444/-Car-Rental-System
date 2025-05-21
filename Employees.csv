@@ -1,0 +1,9 @@
+Employee-ID,Name,Password,Number of cars currently rented,Total number of cars rented,Total number of cars returned with damage,Total number of days delayed,Total dues(in Rs.)
+E934,Rajendra,prasad,0,0,0,0,0
+E729,Pravesh,1729,0,0,0,0,0
+E444,Manoj,manoj1993,0,0,0,0,0
+E397,Namrata,NammaMetro,0,0,0,0,0
+E265,Sanjay,Joy,0,0,0,0,0
+E256,Vikram,vicky,1,1,0,0,5312.5
+E253,Gagan,swaqdf,0,1,1,0,2050
+E831,Anand,2005,1,1,0,0,9350

@@ -1,0 +1,5 @@
+Car-ID,Model,Rent (in Rs. per day),Condition (1=In good condition; 0= Damaged)
+C1234,Creta,1000,1
+N4526,Nano,600,1
+K5678,Kia,1250,1
+T1729,Toyota,900,0
